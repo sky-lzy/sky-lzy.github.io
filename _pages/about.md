@@ -48,15 +48,13 @@ During Oct. 2021 ~ Jun. 2023, I was working on RIS-assisted communication system
   <p> <strong>Zhiyi Li</strong>, Lihe Ding, Tianfan Xue </p>
   <!-- <p> <i> arXiv </i> </p> -->
 
-  <br>
   We propose <strong>Obj-NeRF</strong>, a novel comprehensive pipeline to extract object NeRFs from multi-view images, which can be used for NeRF editing tasks. 
 
-  <br>
   <a href="https://objnerf.github.io" ><strong>Project</strong></a>, 
-  <a href=""><strong>Code</strong></a>, 
-  <a href=""><strong>Video</strong></a>, 
-  <a href=""><strong>PDF</strong></a>, 
-  <a href=""><strong>BibTex</strong></a> 
+  <!-- <a href=""><strong>Code</strong></a>,  -->
+  <a href="https://www.youtube.com/watch?v=VEwYrSPFatg"><strong>Video</strong></a>, 
+  <a href="sources/paper_objnerf/paper.pdf"><strong>PDF</strong></a>
+  <!-- <a href=""><strong>BibTex</strong></a>  -->
   <!-- <a href=""><strong>Supp</strong></a>,  -->
   <!-- <a href=""><strong>Poster</strong></a>,  -->
   <!-- <a href=""><strong>Slides</strong></a> -->
@@ -82,7 +80,6 @@ During Oct. 2021 ~ Jun. 2023, I was working on RIS-assisted communication system
   <p><strong>Zhiyi Li</strong>, Jida Zhang, Jieao Zhu, Linglong Dai</p>
   <p><i>IEEE International Wireless Communications and Mobile Computing Conference 2023 (IWCMC'23)</i></p>
 
-  <br> 
   <a href="https://ieeexplore.ieee.org/abstract/document/10183034"><strong>Paper</strong></a>, 
   <a href="../sources/paper_iwcmc/codes.zip" download><strong>Code</strong></a>, 
   <a href="../sources/paper_iwcmc/slides.pdf" download><strong>Slides</strong></a>, 
