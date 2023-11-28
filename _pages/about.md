@@ -51,6 +51,7 @@ During Oct. 2021 ~ Jun. 2023, I was working on RIS-assisted communication system
   We propose <strong>Obj-NeRF</strong>, a novel comprehensive pipeline to extract object NeRFs from multi-view images, which can be used for NeRF editing tasks. 
 
   <a href="https://objnerf.github.io" ><strong>Project</strong></a>, 
+  <a href="https://arxiv.org/abs/2311.15291" ><strong>Paper</strong></a>, 
   <!-- <a href=""><strong>Code</strong></a>,  -->
   <a href="https://www.youtube.com/watch?v=VEwYrSPFatg"><strong>Video</strong></a>, 
   <a href="sources/paper_objnerf/paper.pdf"><strong>PDF</strong></a>
