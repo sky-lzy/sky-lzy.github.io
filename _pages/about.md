@@ -71,8 +71,8 @@ My research interests include 3D vision, robotics, and generative world models. 
 <div class='paper-box-text' markdown="1">
   <a href="https://people.csail.mit.edu/yichenl/projects/physwm/"  style="text-decoration: none;"><strong>Generalized Dynamics Generation
 towards Scannable Physical World Model</strong></a>
-  <p> <i> arXiv Preprint 2025 </i> </p>
   <p>Yichen Li, <strong>Zhiyi Li</strong>, Brandon Feng, Antonio Torralba</p>
+  <p> <i> arXiv Preprint 2025 </i> </p>
   <a href="https://people.csail.mit.edu/yichenl/projects/physwm/" ><strong>Website</strong></a>,
   <a href="https://arxiv.org/abs/2510.15041" ><strong>Paper</strong></a>
 </div>
@@ -142,8 +142,8 @@ towards Scannable Physical World Model</strong></a>
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
   <a href="https://ieeexplore.ieee.org/abstract/document/10183034"  style="text-decoration: none;"><strong>RIS Energy Efficiency Optimization with Practical Power Models</strong></a>
-  <p> <i> IWCMC 2023 </i> </p>
   <p><strong>Zhiyi Li</strong>, Jida Zhang, Jieao Zhu, Linglong Dai</p>
+  <p> <i> IWCMC 2023 </i> </p>
   <p> <a href="https://ieeexplore.ieee.org/abstract/document/10183034" ><strong>Paper</strong></a> </p>
 </div>
 </div>
@@ -152,8 +152,8 @@ towards Scannable Physical World Model</strong></a>
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
   <a href="https://ieeexplore.ieee.org/abstract/document/10122216/" style="text-decoration: none;"><strong>Wideband Active RISs: Architecture, Modeling, and Beamforming Design</strong></a>
-  <p> <i> IEEE Communications Letters </i> </p>
   <p> Jida Zhang, <strong>Zhiyi Li</strong>, Zijian Zhang </p>
+  <p> <i> IEEE Communications Letters </i> </p>
   <p> <a href="https://ieeexplore.ieee.org/abstract/document/10122216" ><strong>Paper</strong></a> </p>
 </div>
 </div>
