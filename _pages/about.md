@@ -46,8 +46,8 @@ My research interests include 3D vision, robotics, and generative world models. 
   <p> <strong>Zhiyi Li</strong>, Peilin Wu*, Xiaoshen Han*, Ruojin Cai, Yilun Du </p>
   <p> <i> ICML 2026 </i> </p>
 
-  <a href="https://structured-4d-model.github.io" ><strong>Website</strong></a>
-  <!-- <a href="" ><strong>Paper</strong></a>,  -->
+  <a href="https://structured-4d-model.github.io" ><strong>Website</strong></a>,
+  <a href="https://arxiv.org/abs/2607.01166" ><strong>Paper</strong></a>
   <!-- <a href=""><strong>Code</strong></a> -->
   <!-- <a href=""><strong>Video</strong></a> -->
   <!-- <a href=""><strong>BibTex</strong></a>  -->
