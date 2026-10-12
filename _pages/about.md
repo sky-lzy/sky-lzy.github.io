@@ -242,7 +242,7 @@ towards Scannable Physical World Model</strong></a>
 <div class="education-box">
 <div class="education-box-image">
 <!-- Logo source: https://www.tri.global/themes/custom/tri_global/assets/images/tri-logo-white-bg.svg -->
-<img src="images/experiences/tri.svg" alt="Toyota Research Institute logo" width="100%" style="width: 160px; margin-right: 60px;">
+<img src="images/experiences/tri-full.svg" alt="Toyota Research Institute logo" width="100%" style="width: 160px; margin-right: 60px;">
 </div>
 <div class="education-box-text" markdown="1">
 <a href="https://www.tri.global/" style="text-decoration: none;"><strong>Toyota Research Institute</strong></a>
