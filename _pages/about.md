@@ -239,6 +239,21 @@ towards Scannable Physical World Model</strong></a>
 
 # 💻 Experiences
 
+<div class="education-box">
+<div class="education-box-image">
+<!-- Logo source: https://www.tri.global/themes/custom/tri_global/assets/images/tri-logo-no-text.svg -->
+<img src="images/experiences/tri.svg" alt="Toyota Research Institute logo" width="100%">
+</div>
+<div class="education-box-text" markdown="1">
+<a href="https://www.tri.global/" style="text-decoration: none;"><strong>Toyota Research Institute</strong></a>
+<p> <strong>Internship</strong> </p>
+<p> <i>2026.05 - 2026.08</i> </p>
+<p> <i>Cambridge, MA, USA</i> </p>
+</div>
+</div>
+
+<br>
+
 <div class="education-box"> 
 <div class="education-box-image">
 <img src="images/education/cuhk.png" alt="sym" width="100%">
