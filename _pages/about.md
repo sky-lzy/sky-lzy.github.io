@@ -34,6 +34,29 @@ My research interests include 3D vision, robotics, and generative world models. 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <img src='sources/publications/202610-mose3/teaser.png' alt="MoSE3 butterfly example showing world-space SE(3) motion and rigidity embeddings" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+
+  <a href="https://mose3-tracker.github.io/" style="text-decoration: none;"><strong>MoSE3: Learning World-Space SE(3) at Every Pixel</strong></a>
+
+  <p>Jiahuan Cheng*, <strong>Zhiyi Li*</strong>, Tian Xia*, Ruojin Cai, Yilun Du, Qianqian Wang</p>
+  <p><i>NeurIPS 2026 Spotlight</i></p>
+
+  <a href="https://mose3-tracker.github.io/"><strong>Website</strong></a>,
+  <a href="https://github.com/mose3-tracker/MoSE3"><strong>Code</strong></a>,
+  <a href="https://huggingface.co/mose3-tracker/MoSE3"><strong>Hugging Face</strong></a>,
+  <a href="https://arxiv.org/abs/2610.03716"><strong>Paper</strong></a>
+
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <!-- <div class="badge">In submission</div> -->
       <img src='sources/publications/202607-s4dm/teaser.png' alt="sym" width="100%">
     </div>
