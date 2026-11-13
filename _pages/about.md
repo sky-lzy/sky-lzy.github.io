@@ -48,9 +48,9 @@ My research interests include 3D vision, robotics, and generative world models. 
   <p><i>NeurIPS 2026</i></p>
 
   <a href="https://ugg-model.github.io/"><strong>Website</strong></a>,
+  <a href="https://arxiv.org/abs/2611.14440"><strong>Paper</strong></a>,
   <a href="https://github.com/amanikiruga/UGG"><strong>Code</strong></a>,
-  <a href="https://huggingface.co/amanim71/UGG"><strong>Hugging Face</strong></a>,
-  <a href="https://arxiv.org/abs/2611.14440"><strong>Paper</strong></a>
+  <a href="https://huggingface.co/amanim71/UGG"><strong>Hugging Face</strong></a>
 
   </div>
 </div>
@@ -71,9 +71,9 @@ My research interests include 3D vision, robotics, and generative world models. 
   <p><i>NeurIPS 2026 Spotlight</i></p>
 
   <a href="https://mose3-tracker.github.io/"><strong>Website</strong></a>,
+  <a href="https://arxiv.org/abs/2610.03716"><strong>Paper</strong></a>,
   <a href="https://github.com/mose3-tracker/MoSE3"><strong>Code</strong></a>,
-  <a href="https://huggingface.co/mose3-tracker/MoSE3"><strong>Hugging Face</strong></a>,
-  <a href="https://arxiv.org/abs/2610.03716"><strong>Paper</strong></a>
+  <a href="https://huggingface.co/mose3-tracker/MoSE3"><strong>Hugging Face</strong></a>
 
   </div>
 </div>
@@ -95,8 +95,9 @@ My research interests include 3D vision, robotics, and generative world models. 
   <p> <i> ICML 2026 </i> </p>
 
   <a href="https://structured-4d-model.github.io" ><strong>Website</strong></a>,
-  <a href="https://arxiv.org/abs/2607.01166" ><strong>Paper</strong></a>
-  <!-- <a href=""><strong>Code</strong></a> -->
+  <a href="https://arxiv.org/abs/2607.01166" ><strong>Paper</strong></a>,
+  <a href="https://github.com/sky-lzy/Structured-4D-Model"><strong>Code</strong></a>,
+  <a href="https://huggingface.co/zhiyi24/structured-4d-model"><strong>Hugging Face</strong></a>
   <!-- <a href=""><strong>Video</strong></a> -->
   <!-- <a href=""><strong>BibTex</strong></a>  -->
   <!-- <a href=""><strong>Supp</strong></a>,  -->
@@ -189,6 +190,16 @@ towards Scannable Physical World Model</strong></a>
 
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
+  <a href="https://arxiv.org/abs/2310.15901" style="text-decoration: none;"><strong>Enhancing Energy Efficiency for Reconfigurable Intelligent Surfaces with Practical Power Models</strong></a>
+  <p><strong>Zhiyi Li</strong>, Jida Zhang, Jieao Zhu, Shi Jin, Linglong Dai</p>
+  <p><i>arXiv Preprint 2023</i></p>
+  <p><a href="https://arxiv.org/abs/2310.15901"><strong>Paper</strong></a></p>
+</div>
+</div>
+
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
   <a href="https://ieeexplore.ieee.org/abstract/document/10183034"  style="text-decoration: none;"><strong>RIS Energy Efficiency Optimization with Practical Power Models</strong></a>
   <p><strong>Zhiyi Li</strong>, Jida Zhang, Jieao Zhu, Linglong Dai</p>
   <p> <i> IWCMC 2023 </i> </p>
@@ -207,8 +218,6 @@ towards Scannable Physical World Model</strong></a>
 </div>
 
 ---
-
-<!-- - <strong>Zhiyi Li</strong>, Jida Zhang, Jieao Zhu, Linglong Dai, <a href="https://arxiv.org/abs/2310.15901" style="text-decoration: none;">Enhancing Energy Efficiency for Reconfigurable Intelligent Surfaces with Practical Power Models</a>, <i>arXiv preprint arXiv:2310.15901</i> (2023).  -->
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
