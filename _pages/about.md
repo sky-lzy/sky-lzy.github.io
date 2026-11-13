@@ -34,6 +34,31 @@ My research interests include 3D vision, robotics, and generative world models. 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <a href='sources/publications/202611-ugg/teaser.png' aria-label="View full UGG teaser">
+        <img src='sources/publications/202611-ugg/teaser.png' alt="UGG diagram showing how different inputs are completed into RGB video, depth, and camera trajectories" width="100%">
+      </a>
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+
+  <a href="https://ugg-model.github.io/" style="text-decoration: none;"><strong>UGG: Unified Generative Geometry Model</strong></a>
+
+  <p>Amani Kiruga*, <strong>Zhiyi Li*</strong>, Ruojin Cai*, Hansen Lillemark, Xiaoshan Wu, Ayush Tewari, Yilun Du</p>
+  <p><i>NeurIPS 2026</i></p>
+
+  <a href="https://ugg-model.github.io/"><strong>Website</strong></a>,
+  <a href="https://github.com/amanikiruga/UGG"><strong>Code</strong></a>,
+  <a href="https://huggingface.co/amanim71/UGG"><strong>Hugging Face</strong></a>,
+  <a href="https://arxiv.org/abs/2611.14440"><strong>Paper</strong></a>
+
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <img src='sources/publications/202610-mose3/teaser.png' alt="MoSE3 butterfly example showing world-space SE(3) motion and rigidity embeddings" width="100%">
     </div>
   </div>
